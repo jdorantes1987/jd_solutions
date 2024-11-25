@@ -1,0 +1,487 @@
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\AON\Cotizadores Group Benefits-Panam  V31.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\Baberly Sanchez\MAESTRO DE CLIENTES AL  18-08-2022.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\Banesco Seguros\Conciliaciones\Conciliaciones\Automatizacion archivo partidas pendientes.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\Banesco Seguros\Masivas\Masivas\Validador Masiva.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Revision Contabilidad.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Analisis\Analisis Compras.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Analisis\Analisis Ventas.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Analisis\DECLARACIONES DE IVA A¥O 2022.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Analisis\Revision Contabilidad.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Analisis\Desarrollos\aplicacion MUNDIAL SUDAFRICA 2010 OCTAVOS DE FINALES_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Analisis\Desarrollos\FORMATO FACTURA BANTEL 2022.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Analisis\Desarrollos\Proyecto Consuta Sql Server Paramo.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Analisis\Desarrollos\Qatar 2022.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Analisis\Desarrollos\Quiniela_BP_Qatar_2022.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\BANTEL\Analisis\Desarrollos\Aplicacion Inventario\AppInventario.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Cheques modificado BANESCO_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Cheques modificado MERCANTIL_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comprobante de Retenci¢n de I.V.A_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comprobantes_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\ConsultaCNE_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\ConsultaRIF_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\ConsultaSSO_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\CUENTAS POR COBRAR AFILIADAS _001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\CUENTAS POR COBRAR Aplicacion_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EjemplosEnumeracionesVBA_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\ESTADO DE CUENTA SICA_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Facturaci¢n 1.2_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Facturaci¢n_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Formato Solicitud de Empleo_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\GetAttribFile Obtiene los atributos fecha modificacion creacion archivo_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\GridHiperlink Control_003.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Listado de Afiliadas Modalidad de Pago_003.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Macro registra pulsaciones teclado_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Obtener Tablas Sistema_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Plan de Cuentas CAV_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Proyecto Consuta Sql Server_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\VBA Areas de rangos seleccionados.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\VBA Areas de rangos seleccionados_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\APICACION PARA EIS\REGISTRO VERSION 1\APLICACION.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\APICACION PARA EIS\REGISTRO VERSION 2\APLICACION.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\APICACION PARA EIS\REGISTRO VERSION Excel ACTUAL\APLICACION.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comites_003\Asistencia a Comites por cia.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comites_003\Asistencia a Comites por cia_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comites_003\Asistencia a Comites por cia_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comites_003\Asistencia a Comites por cia_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comites_003\Asistencia a Comites por cia_003.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comites_003\Reporte Asistencia por cia.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comites_003\Reporte Asistencia por cia_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comites_003\Reporte Asistencia por cia_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\Comites_003\Reporte Asistencia por cia_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\EIS 2013 Listado de Participantes2.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\EIS 2013 Listado de Participantes2_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\EIS 2013 Listado de Participantes2_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\Facturaci¢n Dos participantes mas cuota de mantenimiento.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\Facturaci¢n Dos participantes mas cuota de mantenimiento_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\Facturaci¢n Dos participantes mas cuota de mantenimiento_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\Facturaci¢n Dos participantes mas cuota de mantenimiento_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\Formato Inscripci¢n de Participantes EIS 2013.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\Formato Inscripci¢n de Participantes EIS 2013_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\Formato Inscripci¢n de Participantes EIS 2013_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\Relaci¢n STANDS para la Facturaci¢n.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\Relaci¢n STANDS para la Facturaci¢n_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2013_001\Relaci¢n STANDS para la Facturaci¢n_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2014_001\EIS 2014 Listado de Participantes.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2014_001\EIS 2014 Listado de Participantes_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2014_001\EIS 2014 Listado de Participantes_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2017_001\EIS 2017 Listado de Participantes.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2017_001\EIS 2017 Listado de Participantes_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2017_001\EIS 2017 Listado de Participantes_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2017_001\Numero de Participantes por Afiliadas.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2017_001\Numero de Participantes por Afiliadas_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2017_001\Numero de Participantes por Afiliadas_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2017_001\Participantes por Cuota Fija 2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2017_001\Participantes por Cuota Fija 2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS 2017_001\Participantes por Cuota Fija 2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\01 Respaldo_001\EIS 2015 Listado de Participantes.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\01 Respaldo_001\EIS 2015 Listado de Participantes_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\01 Respaldo_001\EIS 2015 Listado de Participantes_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\02 Respaldo_001\EIS2015_001\EIS 2015 Listado de Participantes.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\02 Respaldo_001\EIS2015_001\EIS 2015 Listado de Participantes_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\02 Respaldo_001\EIS2015_001\EIS 2015 Listado de Participantes_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\02 Respaldo_001\EIS2015_001\Participantes por Cuota Fija 2015.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\02 Respaldo_001\EIS2015_001\Participantes por Cuota Fija 2015_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\02 Respaldo_001\EIS2015_001\Participantes por Cuota Fija 2015_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\04 Respaldo_001\EIS2015_001\EIS 2015 Listado de Participantes.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\04 Respaldo_001\EIS2015_001\EIS 2015 Listado de Participantes_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\04 Respaldo_001\EIS2015_001\EIS 2015 Listado de Participantes_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\04 Respaldo_001\EIS2015_001\Participantes por Cuota Fija 2015.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\04 Respaldo_001\EIS2015_001\Participantes por Cuota Fija 2015_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\04 Respaldo_001\EIS2015_001\Participantes por Cuota Fija 2015_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\05 Respaldo_001\EIS2015_001\EIS 2015 Listado de Participantes.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\05 Respaldo_001\EIS2015_001\EIS 2015 Listado de Participantes_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\05 Respaldo_001\EIS2015_001\EIS 2015 Listado de Participantes_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\05 Respaldo_001\EIS2015_001\Participantes por Cuota Fija 2015.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\05 Respaldo_001\EIS2015_001\Participantes por Cuota Fija 2015_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2015_001\05 Respaldo_001\EIS2015_001\Participantes por Cuota Fija 2015_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2016_001\02 Respaldo_002\EIS 2016 Listado de Participantes.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2016_001\02 Respaldo_002\EIS 2016 Listado de Participantes_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2016_001\02 Respaldo_002\EIS 2016 Listado de Participantes_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2016_001\02 Respaldo_002\EIS 2016 Listado de Participantes_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2016_001\02 Respaldo_002\Participantes por Cuota Fija 2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2016_001\02 Respaldo_002\Participantes por Cuota Fija 2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2016_001\02 Respaldo_002\Participantes por Cuota Fija 2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\EIS2016_001\02 Respaldo_002\Participantes por Cuota Fija 2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\HISTORICO COBRANZA_002\Cobranza al 31-07-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\HISTORICO COBRANZA_002\Cobranza al 31-07-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\HISTORICO COBRANZA_002\Cobranza al 31-07-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\HISTORICO COBRANZA_002\Cobranza al 31-07-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\HISTORICO COBRANZA_002\Cobranza al 31-08-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\HISTORICO COBRANZA_002\Cobranza al 31-08-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\HISTORICO COBRANZA_002\Cobranza al 31-08-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\HISTORICO COBRANZA_002\Cobranza al 31-08-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\REGISTRO VERSION Excel ACTUAL\APLICACION.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\REGISTRO_002\APLICACION.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\REGISTRO_002\APLICACION_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\REGISTRO_002\APLICACION_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\REGISTRO_002\APLICACION_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\ABRIL_003\MACRO RETENCIONES I.S.L.R.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\ABRIL_003\MACRO RETENCIONES I.S.L.R_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\ABRIL_003\MACRO RETENCIONES I.S.L.R_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\ABRIL_003\MACRO RETENCIONES I.S.L.R_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\AGOSTO_002\MACRO RETENCIONES I.S.L.R.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\AGOSTO_002\MACRO RETENCIONES I.S.L.R_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\AGOSTO_002\MACRO RETENCIONES I.S.L.R_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\AGOSTO_002\MACRO RETENCIONES I.S.L.R_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\JULIO_002\MACRO RETENCIONES I.S.L.R.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\JULIO_002\MACRO RETENCIONES I.S.L.R_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\JULIO_002\MACRO RETENCIONES I.S.L.R_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\JULIO_002\MACRO RETENCIONES I.S.L.R_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\JUNIO_002\MACRO RETENCIONES I.S.L.R.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\JUNIO_002\MACRO RETENCIONES I.S.L.R_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\JUNIO_002\MACRO RETENCIONES I.S.L.R_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\JUNIO_002\MACRO RETENCIONES I.S.L.R_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\MAYO_002\MACRO RETENCIONES I.S.L.R.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\MAYO_002\MACRO RETENCIONES I.S.L.R_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\MAYO_002\MACRO RETENCIONES I.S.L.R_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2014_002\MAYO_002\MACRO RETENCIONES I.S.L.R_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\ABRIL_002\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\ABRIL_002\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\ABRIL_002\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\DICIEMBRE_001\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\DICIEMBRE_001\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\DICIEMBRE_001\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\FEBRERO_002\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\FEBRERO_002\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\FEBRERO_002\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\FEBRERO_002\Macro_RET_ISLR_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\JULIO_002\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\JULIO_002\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\JULIO_002\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\JULIO_002\Macro_RET_ISLR_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\JUNIO_002\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\JUNIO_002\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\JUNIO_002\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\JUNIO_002\Macro_RET_ISLR_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\MARZO_002\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\MARZO_002\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\MARZO_002\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\MARZO_002\Macro_RET_ISLR_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\MAYO_001\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\MAYO_001\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\MAYO_001\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\NOVIEMBRE_001\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\NOVIEMBRE_001\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\NOVIEMBRE_001\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\OCTUBRE_001\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\OCTUBRE_001\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\OCTUBRE_001\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\SEPTIEMBRE_001\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\SEPTIEMBRE_001\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2015_002\SEPTIEMBRE_001\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\ABRIL_001\Macro_RET_ISLR 04-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\ABRIL_001\Macro_RET_ISLR 04-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\ABRIL_001\Macro_RET_ISLR 04-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\AGOSTO_002\Macro_RET_ISLR 08-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\AGOSTO_002\Macro_RET_ISLR 08-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\AGOSTO_002\Macro_RET_ISLR 08-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\AGOSTO_002\Macro_RET_ISLR 08-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\DICIEMBRE_002\Macro_RET_ISLR 12-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\DICIEMBRE_002\Macro_RET_ISLR 12-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\DICIEMBRE_002\Macro_RET_ISLR 12-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\DICIEMBRE_002\Macro_RET_ISLR 12-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\ENERO_002\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\ENERO_002\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\ENERO_002\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\ENERO_002\Macro_RET_ISLR_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\FEBRERO_002\Macro_RET_ISLR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\FEBRERO_002\Macro_RET_ISLR_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\FEBRERO_002\Macro_RET_ISLR_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\FEBRERO_002\Macro_RET_ISLR_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\JULIO_003\Macro_RET_ISLR 07-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\JULIO_003\Macro_RET_ISLR 07-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\JULIO_003\Macro_RET_ISLR 07-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\JULIO_003\Macro_RET_ISLR 07-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\JULIO_003\Macro_RET_ISLR 07-2016_003.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\JUNIO_003\Macro_RET_ISLR 06-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\JUNIO_003\Macro_RET_ISLR 06-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\JUNIO_003\Macro_RET_ISLR 06-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\JUNIO_003\Macro_RET_ISLR 06-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\MARZO_002\Macro_RET_ISLR 03-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\MARZO_002\Macro_RET_ISLR 03-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\MARZO_002\Macro_RET_ISLR 03-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\MARZO_002\Macro_RET_ISLR 03-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\MAYO_002\Macro_RET_ISLR 05-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\MAYO_002\Macro_RET_ISLR 05-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\MAYO_002\Macro_RET_ISLR 05-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\MAYO_002\Macro_RET_ISLR 05-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\NOVIEMBRE_002\Macro_RET_ISLR 11-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\NOVIEMBRE_002\Macro_RET_ISLR 11-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\NOVIEMBRE_002\Macro_RET_ISLR 11-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\NOVIEMBRE_002\Macro_RET_ISLR 11-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\OCTUBRE_002\Macro_RET_ISLR 10-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\OCTUBRE_002\Macro_RET_ISLR 10-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\OCTUBRE_002\Macro_RET_ISLR 10-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\OCTUBRE_002\Macro_RET_ISLR 10-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\SEPTIEMBRE_002\Macro_RET_ISLR 09-2016.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\SEPTIEMBRE_002\Macro_RET_ISLR 09-2016_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\SEPTIEMBRE_002\Macro_RET_ISLR 09-2016_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2016_001\SEPTIEMBRE_002\Macro_RET_ISLR 09-2016_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\ABRIL_002\Macro_RET_ISLR 04-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\ABRIL_002\Macro_RET_ISLR 04-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\ABRIL_002\Macro_RET_ISLR 04-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\ABRIL_002\Macro_RET_ISLR 04-2017_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\AGOSTO_002\Macro_RET_ISLR 08-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\AGOSTO_002\Macro_RET_ISLR 08-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\AGOSTO_002\Macro_RET_ISLR 08-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\AGOSTO_002\Macro_RET_ISLR 08-2017_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\ENERO_002\Macro_RET_ISLR 01-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\ENERO_002\Macro_RET_ISLR 01-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\ENERO_002\Macro_RET_ISLR 01-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\ENERO_002\Macro_RET_ISLR 01-2017_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\FEBRERO_002\Macro_RET_ISLR 02-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\FEBRERO_002\Macro_RET_ISLR 02-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\FEBRERO_002\Macro_RET_ISLR 02-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\FEBRERO_002\Macro_RET_ISLR 02-2017_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\JULIO_002\Macro_RET_ISLR 07-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\JULIO_002\Macro_RET_ISLR 07-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\JULIO_002\Macro_RET_ISLR 07-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\JULIO_002\Macro_RET_ISLR 07-2017_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\JUNIO_002\Macro_RET_ISLR 06-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\JUNIO_002\Macro_RET_ISLR 06-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\JUNIO_002\Macro_RET_ISLR 06-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\JUNIO_002\Macro_RET_ISLR 06-2017_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\MARZO_002\Macro_RET_ISLR 03-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\MARZO_002\Macro_RET_ISLR 03-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\MARZO_002\Macro_RET_ISLR 03-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\MARZO_002\Macro_RET_ISLR 03-2017_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\MAYO_002\Macro_RET_ISLR 05-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\MAYO_002\Macro_RET_ISLR 05-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\MAYO_002\Macro_RET_ISLR 05-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\MAYO_002\Macro_RET_ISLR 05-2017_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\NOVIEMBRE_002\Macro_RET_ISLR 11-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\NOVIEMBRE_002\Macro_RET_ISLR 11-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\NOVIEMBRE_002\Macro_RET_ISLR 11-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\NOVIEMBRE_002\Macro_RET_ISLR 11-2017_002.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\OCTUBRE_002\Macro_RET_ISLR 10-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\OCTUBRE_002\Macro_RET_ISLR 10-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\OCTUBRE_002\Macro_RET_ISLR 10-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\SEPTIEMBRE_001\Macro_RET_ISLR 09-2017.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\SEPTIEMBRE_001\Macro_RET_ISLR 09-2017_000.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Archivos Excel\RETENCIONES DE I.S.L.R_002\2017_002\SEPTIEMBRE_001\Macro_RET_ISLR 09-2017_001.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Inventario\IMO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\CAV\Inventario\INVENTARIO MATERIAL DE OFICINAS.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\SISA - CFQ - NUEVAS CAT - VERSION ADMIN SPMI - ABRIL 2019 rut 75.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Analisis\Revision Compras y Pagos y Ordenes Pago.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Analisis\Revision Contabilidad Epran.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Analisis\Revision Ventas y Cobros.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Beberly Sanchez\Movimientos en Dolares.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Beberly Sanchez\PrepararEdoCtaBanPlus\Edo de Cuenta BANPLUS.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Beberly Sanchez\PrepararEdoCtaBNC\PrepararMovBancoBNC.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Beberly Sanchez\PrepararEdoCtaMercantil\ConvertidorBcoMerc.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Beberly Sanchez\PrepararEdoCtaProvincial\PrepararMovBancoProvincial.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Beberly Sanchez\txtbancovenezuela\ConvertidorBcoVzla.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Beberly Sanchez\txtbancovenezuela\PrepararEdoCtaBDV.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\JOSE DAVID\FORMATO FACT REPRESENTACIONES PLENTY 26.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mayra Obelmejias\Reporte Pasivos Laborales.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\Asiento Saldos Iniciales\07 JULIO 2022\Revision Contabilidad 2CREA2.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\Asiento Saldos Iniciales\07 JULIO 2022\Revision Contabilidad EPRAN.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\Asiento Saldos Iniciales\07 JULIO 2022\Revision Contabilidad SPMI.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA CLIENTES\Cuentas por Cobrar 2CREA2.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA CLIENTES\Cuentas por Cobrar ADLP.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA CLIENTES\Cuentas por Cobrar CFS.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA CLIENTES\Cuentas por Cobrar Epran.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA CLIENTES\Cuentas por Cobrar HDMY.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA CLIENTES\Cuentas por Cobrar JDL.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA CLIENTES\Cuentas por Cobrar LUDADISCA.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA CLIENTES\Cuentas por Cobrar SPMI.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA PROVEEDORES\CUENTAS POR PAGAR 2CREA2 HISTORICO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA PROVEEDORES\CUENTAS POR PAGAR ADLP HISTORICO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA PROVEEDORES\CUENTAS POR PAGAR CFS HISTORICO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA PROVEEDORES\CUENTAS POR PAGAR EPRAN HISTORICO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA PROVEEDORES\CUENTAS POR PAGAR HDMY HISTORICO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA PROVEEDORES\CUENTAS POR PAGAR JDL HISTORICO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA PROVEEDORES\CUENTAS POR PAGAR LUDADISCA HISTORICO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\ESTADOS DE CUENTA PROVEEDORES\CUENTAS POR PAGAR SPMI HISTORICO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\Maestro Clientes\Clientes Activos 2CREA2.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\Maestro Clientes\Clientes Activos Epran.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Mildred Gonzalez\Maestro Clientes\Clientes Activos SPMI.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Txt Nominas\Txt Nominas\ConsultaDatosNomina1.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Txt Nominas\Txt Nominas\ConsultaDatosNomina2.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Txt Nominas\Txt Nominas\ConsultaDatosNomina3.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Txt Nominas\Txt Nominas\ConsultaDatosNomina4.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Txt Nominas\Txt Nominas\ConsultaDatosNomina5.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Txt Nominas\Txt Nominas\ConsultaDatosNominaV2.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Txt Nominas\Txt Nominas\Preparar Datos para archivos txt banco.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Txt Nominas\Txt Nominas\TXT NOMINA BDV.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Yosmir Madera\APORTES INCES.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Yosmir Madera\AppInventario.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\EPRAN\Yosmir Madera\DETALLE NOMINAS AGRUPADO 2019.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\102 RESTAURANT\INV JWSM 2017 CA\ANALISIS E.F\SOPORTES JULIO 2021\MAESTRO DE COMPRAS GELATERIA JULIO 27.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\102 RESTAURANT\INV JWSM 2017 CA\COSTO\2021\05.MAYO\05.MAESTRO DE COMPRAS MAYO-21.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\102 RESTAURANT\INV JWSM 2017 CA\COSTO\2021\06. JUNIO\06.MAESTRO DE COMPRAS GELATERIA JUN-21.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\Proyecto Consuta Sql Server Paramo.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\Revision Compras y Pagos y Ordenes Pago.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\Revision Contabilidad.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\Revision Ventas y Cobros.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\Berocast\Junio\CIERRE CONTABLE JUNIO 2022.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\EMPRESAS CENTRO GOLFEADOS\Analisis\Analisis Compras.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\EMPRESAS CENTRO GOLFEADOS\Analisis\Analisis Ventas.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\EMPRESAS CENTRO GOLFEADOS\Analisis\Revision Contabilidad.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\Great Cafe\JUNIO\1ER CIERRE CONTABLE Great.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\Melody\Junio\CIERRE CONTABILIDAD JUNIO 2022.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Analisis\Paramo Place\Junio\CIERRE CONTABLE JUNIO 2022.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_AIR PLACE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_AIR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_AIRSPORT.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_ASPORT.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_BAAKINE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_BRO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_BUSINEES.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_CONSOLIDADO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_CORNER.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_D. Fari¤a.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_ELITE CAFE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_GREAT.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_I. Berocast.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_I.Cafe TSB.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_IC.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_MELODY.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_P. Place.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_P_Place.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_STAR COFFE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_SWEET.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_SYMPHONY.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_TODO RON.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ER\ER_UNITED.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_AIR PLACE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_AIR.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_AIRSPORT.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_A_SPORT.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_BAAKINE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_BRO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_BUSINEES.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_CONSOLIDADO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_CORNER.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_D. Fari¤a.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_D_Fari¤a.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_ELITE CAFE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_GREAT.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_I. Berocast.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_I.Cafe TSB.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_IC.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_I_Berocast.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_I_Cafe TSB.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_MELODY.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_P. Place.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_P_Place.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_STAR COFFE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_SWEET.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_SYMPHONY.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_TODO RON.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\Consolidados\CONSOLIDADOS OTROS\ES\ES_UNITED CAFE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_AIR PLACE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_AIRSPORT.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_BAAKINE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_BRO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_BUSINEES.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_CONSOLIDADO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_CORNER.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_D. Fari¤a.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_ELITE CAFE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_GREAT.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_I. Berocast.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_I.Cafe TSB.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_IC.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_MELODY.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_P. Place.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_STAR COFFE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_SWEET.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_SYMPHONY.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_TODO RON.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ER\ER_UNITED.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_AIR PLACE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_AIRSPORT.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_BAAKINE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_BRO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_BUSINEES.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_CORNER.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_D. Fari¤a.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_ELITE CAFE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_GREAT.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_I. Berocast.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_I.Cafe TSB.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_IC.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_MELODY.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_P. Place.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_STAR COFFE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_SWEET.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_SYMPHONY.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_TODO RON.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\PHX\General\CONSOLIDADOS OTROS 1ra Version\ES\ES_UNITED CAFE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\SOFTTECH\Profit\Nomina\Migrador de nomina 2kdoce al 30-11-2022.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\SOFTTECH\Profit\Nomina\Migrador de nomina 2kdoce al 31-12-2022.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\SOFTTECH\Profit\Nomina\Migrador de nomina 2kdoce.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Empresas\SOFTTECH\Profit\Nomina\Tablas maestro nomina.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Ajedrez\Excel VBA Chess v1.03 15Apr2020.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Deibi Delgado\ADAM NUEVO Liq-Automatica V35.0 SIN CLAVE.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Agregar Imagen Comentario.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Aplicacion Casa Cambio.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\ArrastrarYSoltar.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\BrowseForFolderByPath vba 64 bits.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\BuscarRif.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Consulta Web Banesco Tasa BCV.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\ConsultaWebMonitorDolar.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\ConsultaWebMonitorDolar2.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\DibujarSeleccion.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\EjercicioSql.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Exportar rango seleccionado en una imagen jpg.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\funciones.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\GCProd.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Leer Json desde la Web.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\ListBox search.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Mostrar el globo de notificaci¢n de la bandeja del sistema.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Pivot VBA seleccionar rango tabla dinamica.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Proyecto Consuta Sql Server.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\SQL-Example.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Validar_Ruc.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\2007OfficeIconsGallery\Office2007IconsGallery.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Agregar recordatorios en Outlook desde Excel\Agregar recordatorios en Outlook desde Excel.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Archivos Validadores Carga Lote\ValidadorCargaLote Ver 1.1.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Archivos Validadores Carga Lote\ValidadorCargaLote Ver 1.2.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Archivos Validadores Carga Lote\ValidadorCargaLote Ver 1.3.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Archivos Validadores Carga Lote\ValidadorCargaLote Ver 1.4.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Curso Excel Experto\Modelos Dashboard\DashBoard Modelo2 to PDF.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Curso Excel Experto\Modelos Dashboard\DashBoard Modelo8.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Curso Excel Experto\Modelos Dashboard\DashBoard Modelo9 Excelente.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Curso Excel Experto\PlantillasLUZ2\Excel_2010\Planilha de Controle de Treinamentos - DEMO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Curso Excel Experto\PlantillasLUZ2\Excel_2010\Planilha-de-Controle-de-Funcion rios-4.0-DEMO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Curso Excel Experto\PlantillasLUZ2\Excel_2010\Planilha-de-Dinƒmica-de-Grupos-4.0-DEMO.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Dictionary Article Source Code\Dictionary Article Source Code .xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Dictionary Article Source Code\Example 1 World Cup.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Dictionary Article Source Code\Example 2 Customer single value.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Dictionary Article Source Code\Example 3 Customer sum multi.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Editar xml y Ribbon archivos excel editopenxml\EditOpenXML 004.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Editar xml y Ribbon archivos excel editopenxml\formcontrols.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\IntelliSense-master\IntelliSense-master\VBASamples\VBAFunctions.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\IntelliSense-master\IntelliSense-master\VBASamples\VBAFunctionsCustomXMLPart.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\IntelliSense-master\IntelliSense-master\VBASamples\VBAFunctionsNoIS.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions\CustomFunctions ejemplo demostracion funciones.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions\cursores\Cursores.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.0\CustomFunctions ejemplo demostracion funciones.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.0\cursores\Cursores.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.1\CustomFunctions ejemplo demostracion funciones.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.1\cursores\Cursores.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.2\CustomFunctions ejemplo demostracion funciones.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.2\cursores\Cursores.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.3\CustomFunctions ejemplo demostracion funciones.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.3\cursores\Cursores.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.4\CustomFunctions ejemplo demostracion funciones.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.4\cursores\Cursores.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.5\CustomFunctions ejemplo demostracion funciones.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.5\cursores\Cursores.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.6\CustomFunctions ejemplo demostracion funciones.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.6\cursores\Cursores.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.7\CustomFunctions ejemplo demostracion funciones.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JD_S\JD_Solutions 1.7\cursores\Cursores.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JSONParse_v1.0\Datos Partidas de Ajedrez Jugadas JDorantes.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JSONParse_v1.0\Datos Partidas de Ajedrez Jugadas JJDM1987.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\JSONParse_v1.0\JSParseVersionActualizada.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\lectorCaptcha\Lector de captcha desde Excel.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\lectorCaptcha\tesseract-ocr-w64.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\modClipboard trabajando con el porta pepeles\Clipboard.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\Opto22_SNAP_PAC_RESTfulPAC_MSExcel read and write JSON\Opto22_RESTfulPAC_readingWritingCharting.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\QR Excel\QR Excel.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\RowLiner\Mostrar propiedades del Sistema.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\treeviewexcel\TreeView 026.xlsm
+C:\Users\JULIO\Documents\Disco_Duro\Personal\Proyectos\Excel\XLChess\XLChess.xlsm
